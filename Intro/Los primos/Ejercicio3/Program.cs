@@ -33,12 +33,9 @@ namespace Los_primos
                             if (divisores == 0 && i > 1)
                                 Console.Write(" {0} ", i);
                         }
-                        Console.WriteLine();
-                    
-                   
+                        Console.WriteLine();                  
 
                     respuesta = false;
-
                 }
                 else
                 {
@@ -55,7 +52,6 @@ namespace Los_primos
                         respuesta = false;
                     }
                 }
-
 
             } while (respuesta);
 
