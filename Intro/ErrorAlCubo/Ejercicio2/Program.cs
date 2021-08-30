@@ -9,10 +9,8 @@ namespace Ejercicio2
             int num = 0;
             bool mal;
 
-
             do
             {
-
                 Console.WriteLine("Ingresar un número mayor que 0");
                 if (int.TryParse(Console.ReadLine(), out num))
                 {
@@ -33,8 +31,7 @@ namespace Ejercicio2
                     Console.WriteLine("ERROR. ¡Reingresar número!\n");
                 }
 
-            }
-            while (num<=0);
+            } while (num<=0);
             
         }
     }

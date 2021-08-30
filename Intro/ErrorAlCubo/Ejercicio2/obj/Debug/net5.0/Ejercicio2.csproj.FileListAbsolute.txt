@@ -14,3 +14,19 @@ C:\Users\ecamejo\source\repos\ErrorAlCubo\Ejercicio2\obj\Debug\net5.0\Ejercicio2
 C:\Users\ecamejo\source\repos\ErrorAlCubo\Ejercicio2\obj\Debug\net5.0\ref\Ejercicio2.dll
 C:\Users\ecamejo\source\repos\ErrorAlCubo\Ejercicio2\obj\Debug\net5.0\Ejercicio2.pdb
 C:\Users\ecamejo\source\repos\ErrorAlCubo\Ejercicio2\obj\Debug\net5.0\Ejercicio2.genruntimeconfig.cache
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Intro\ErrorAlCubo\Ejercicio2\bin\Debug\net5.0\Ejercicio2.exe
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Intro\ErrorAlCubo\Ejercicio2\bin\Debug\net5.0\Ejercicio2.deps.json
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Intro\ErrorAlCubo\Ejercicio2\bin\Debug\net5.0\Ejercicio2.runtimeconfig.json
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Intro\ErrorAlCubo\Ejercicio2\bin\Debug\net5.0\Ejercicio2.runtimeconfig.dev.json
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Intro\ErrorAlCubo\Ejercicio2\bin\Debug\net5.0\Ejercicio2.dll
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Intro\ErrorAlCubo\Ejercicio2\bin\Debug\net5.0\ref\Ejercicio2.dll
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Intro\ErrorAlCubo\Ejercicio2\bin\Debug\net5.0\Ejercicio2.pdb
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Intro\ErrorAlCubo\Ejercicio2\obj\Debug\net5.0\Ejercicio2.csproj.AssemblyReference.cache
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Intro\ErrorAlCubo\Ejercicio2\obj\Debug\net5.0\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Intro\ErrorAlCubo\Ejercicio2\obj\Debug\net5.0\Ejercicio2.AssemblyInfoInputs.cache
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Intro\ErrorAlCubo\Ejercicio2\obj\Debug\net5.0\Ejercicio2.AssemblyInfo.cs
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Intro\ErrorAlCubo\Ejercicio2\obj\Debug\net5.0\Ejercicio2.csproj.CoreCompileInputs.cache
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Intro\ErrorAlCubo\Ejercicio2\obj\Debug\net5.0\Ejercicio2.dll
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Intro\ErrorAlCubo\Ejercicio2\obj\Debug\net5.0\ref\Ejercicio2.dll
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Intro\ErrorAlCubo\Ejercicio2\obj\Debug\net5.0\Ejercicio2.pdb
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Intro\ErrorAlCubo\Ejercicio2\obj\Debug\net5.0\Ejercicio2.genruntimeconfig.cache
