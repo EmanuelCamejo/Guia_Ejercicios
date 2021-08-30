@@ -1,0 +1,12 @@
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Class-Method\DeseaContinuar\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Class-Method\DeseaContinuar\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Class-Method\DeseaContinuar\Biblioteca\bin\Debug\net5.0\ref\Biblioteca.dll
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Class-Method\DeseaContinuar\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Class-Method\DeseaContinuar\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Class-Method\DeseaContinuar\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Class-Method\DeseaContinuar\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Class-Method\DeseaContinuar\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Class-Method\DeseaContinuar\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Class-Method\DeseaContinuar\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Class-Method\DeseaContinuar\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Class-Method\DeseaContinuar\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
