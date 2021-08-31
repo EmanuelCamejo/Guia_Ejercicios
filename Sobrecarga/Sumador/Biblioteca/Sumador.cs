@@ -8,7 +8,6 @@ namespace Biblioteca
         private long num1, num2, resultado;
 
         #region Contructores
-
         public Sumador(int cantidadSumas)
         {
             this.cantidadSumas = cantidadSumas;
@@ -35,10 +34,9 @@ namespace Biblioteca
         #endregion
 
         public static explicit operator Sumador(long cantidaSumas)
-         {
+        {
 
             return cantidaSumas;
-         }
-
-}
+        }
+    }
 }

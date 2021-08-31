@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Facultad\\2do cuatrimestre 2021\\Program II - Lab II\\Guia_Ejercicios\\Sobrecarga\\Ejercicio1\\Biblioteca\\Biblioteca.csproj": {}
+    "D:\\Facultad\\2do cuatrimestre 2021\\Program II - Lab II\\Guia_Ejercicios\\Sobrecarga\\Sumador\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "D:\\Facultad\\2do cuatrimestre 2021\\Program II - Lab II\\Guia_Ejercicios\\Sobrecarga\\Ejercicio1\\Biblioteca\\Biblioteca.csproj": {
+    "D:\\Facultad\\2do cuatrimestre 2021\\Program II - Lab II\\Guia_Ejercicios\\Sobrecarga\\Sumador\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Facultad\\2do cuatrimestre 2021\\Program II - Lab II\\Guia_Ejercicios\\Sobrecarga\\Ejercicio1\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "D:\\Facultad\\2do cuatrimestre 2021\\Program II - Lab II\\Guia_Ejercicios\\Sobrecarga\\Sumador\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "D:\\Facultad\\2do cuatrimestre 2021\\Program II - Lab II\\Guia_Ejercicios\\Sobrecarga\\Ejercicio1\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "D:\\Facultad\\2do cuatrimestre 2021\\Program II - Lab II\\Guia_Ejercicios\\Sobrecarga\\Sumador\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\ecamejo\\.nuget\\packages\\",
-        "outputPath": "D:\\Facultad\\2do cuatrimestre 2021\\Program II - Lab II\\Guia_Ejercicios\\Sobrecarga\\Ejercicio1\\Biblioteca\\obj\\",
+        "outputPath": "D:\\Facultad\\2do cuatrimestre 2021\\Program II - Lab II\\Guia_Ejercicios\\Sobrecarga\\Sumador\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ecamejo\\AppData\\Roaming\\NuGet\\NuGet.Config",
