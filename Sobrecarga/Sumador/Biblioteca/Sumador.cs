@@ -21,21 +21,21 @@ namespace Biblioteca
         #endregion
 
         #region Metodos
-        public long Sumar(long num1, long num2)
+        public long Sumar(long a, long b)
         {
-            cantidadSumas++;
-            long resultado = num1 + num2;
-            return resultado;
+            this.cantidadSumas++;            
+            return a+b;
         }
         public string Sumar(string a, string b)
         {
+            this.cantidadSumas++;
             return a + b;
         }
+
         #endregion
 
         public static explicit operator Sumador(long cantidaSumas)
         {
-
             return cantidaSumas;
         }
     }
