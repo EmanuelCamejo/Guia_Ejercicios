@@ -20,11 +20,11 @@ namespace Biblioteca
 
         #endregion
 
-        #region Metodos
+        #region  Metodo
         public long Sumar(long a, long b)
         {
-            this.cantidadSumas++;            
-            return a+b;
+            this.cantidadSumas++;
+            return a + b;
         }
         public string Sumar(string a, string b)
         {
@@ -34,9 +34,28 @@ namespace Biblioteca
 
         #endregion
 
-        public static explicit operator Sumador(long cantidaSumas)
+        #region Operadores de Conversión
+
+        public static explicit operator int(Sumador s1)
         {
-            return cantidaSumas;
+            return s1.cantidadSumas;
         }
+        #endregion
+
+        #region Sobrecarga de Operadores
+        public static long operator +(Sumador s1, Sumador s2)
+        {
+            return s1.cantidadSumas + s2.cantidadSumas;
+        }
+
+        public static bool operator |(Sumador s1, Sumador s2)
+        {
+            if (s1.cantidadSumas == s2.cantidadSumas)
+            {
+                return true;
+            }
+            return false;
+        }
+        #endregion
     }
 }
