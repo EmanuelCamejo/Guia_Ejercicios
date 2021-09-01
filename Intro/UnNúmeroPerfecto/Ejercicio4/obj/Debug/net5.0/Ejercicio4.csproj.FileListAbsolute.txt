@@ -1,0 +1,16 @@
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Intro\UnNúmeroPerfecto\Ejercicio4\bin\Debug\net5.0\Ejercicio4.exe
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Intro\UnNúmeroPerfecto\Ejercicio4\bin\Debug\net5.0\Ejercicio4.deps.json
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Intro\UnNúmeroPerfecto\Ejercicio4\bin\Debug\net5.0\Ejercicio4.runtimeconfig.json
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Intro\UnNúmeroPerfecto\Ejercicio4\bin\Debug\net5.0\Ejercicio4.runtimeconfig.dev.json
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Intro\UnNúmeroPerfecto\Ejercicio4\bin\Debug\net5.0\Ejercicio4.dll
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Intro\UnNúmeroPerfecto\Ejercicio4\bin\Debug\net5.0\ref\Ejercicio4.dll
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Intro\UnNúmeroPerfecto\Ejercicio4\bin\Debug\net5.0\Ejercicio4.pdb
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Intro\UnNúmeroPerfecto\Ejercicio4\obj\Debug\net5.0\Ejercicio4.csproj.AssemblyReference.cache
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Intro\UnNúmeroPerfecto\Ejercicio4\obj\Debug\net5.0\Ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Intro\UnNúmeroPerfecto\Ejercicio4\obj\Debug\net5.0\Ejercicio4.AssemblyInfoInputs.cache
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Intro\UnNúmeroPerfecto\Ejercicio4\obj\Debug\net5.0\Ejercicio4.AssemblyInfo.cs
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Intro\UnNúmeroPerfecto\Ejercicio4\obj\Debug\net5.0\Ejercicio4.csproj.CoreCompileInputs.cache
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Intro\UnNúmeroPerfecto\Ejercicio4\obj\Debug\net5.0\Ejercicio4.dll
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Intro\UnNúmeroPerfecto\Ejercicio4\obj\Debug\net5.0\ref\Ejercicio4.dll
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Intro\UnNúmeroPerfecto\Ejercicio4\obj\Debug\net5.0\Ejercicio4.pdb
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Intro\UnNúmeroPerfecto\Ejercicio4\obj\Debug\net5.0\Ejercicio4.genruntimeconfig.cache
