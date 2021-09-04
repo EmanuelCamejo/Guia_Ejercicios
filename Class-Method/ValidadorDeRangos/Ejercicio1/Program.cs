@@ -16,9 +16,11 @@ namespace Ejercicio1
             int ValorMin = int.MaxValue;
             double prom;
 
+            Console.WriteLine("Debera ingresar 10 números en el rango -100 y 100, y sabras el minimo, maximo y el promedio\n");
+
             while (contNumeros < 10)
             {
-                Console.WriteLine("Ingrese un numero");
+                Console.WriteLine("Ingrese numero");
                 esNumero = int.TryParse(Console.ReadLine(), out numero);
 
                 if (esNumero)
@@ -41,18 +43,18 @@ namespace Ejercicio1
                     }
                     else
                     {
-                        Console.WriteLine("No esta en el rango");
+                        Console.WriteLine("ESTE NÚMERO NO SE TOMARA EN CUANTA YA QUE ESTA FUERA DEL RANGO SOLICITADO");
                     }
                 }
                 else
                 {
-                    Console.WriteLine("Es no es un número");
+                    Console.WriteLine("NO SE TOMARA EN CUANTA YA QUE LO INGRESADO NO ES UN NÚMERO");
                 }
                 contNumeros++;
             }
             prom = acumNumero / 10;
 
-            Console.WriteLine("El maximo es {0}, el minimo es {1}, el promedio es {2}", valorMax, ValorMin, prom);
+            Console.WriteLine("\nEl maximo es {0}, el minimo es {1}, el promedio es {2}", valorMax, ValorMin, prom);
         }
     }
 }
