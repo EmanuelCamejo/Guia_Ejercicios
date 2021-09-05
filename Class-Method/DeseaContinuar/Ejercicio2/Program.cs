@@ -14,7 +14,6 @@ namespace Ejercicio2
             do
             {
                 Console.WriteLine("Ingresar un número entero para ser sumado");
-
                 if (int.TryParse(Console.ReadLine(), out num))
                 {
                     acum += num;
@@ -23,17 +22,14 @@ namespace Ejercicio2
                 {
                     Console.WriteLine("Error, Reingrese un número\n");
                 }
-
                 Console.WriteLine("¿Desea continuar? (S/N)");
                 respuesta = Console.ReadLine();
+                
                 Console.WriteLine();
 
-
             } while (Validador.ValidarRespuesta(respuesta));
-            
 
             Console.WriteLine("La suma de los números ingresados es: {0}",acum);
-
 
         }
     }
