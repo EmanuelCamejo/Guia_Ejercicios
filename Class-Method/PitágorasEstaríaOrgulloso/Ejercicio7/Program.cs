@@ -1,5 +1,4 @@
 ﻿using System;
-using Biblioteca;
 
 namespace Ejercicio7
 {
