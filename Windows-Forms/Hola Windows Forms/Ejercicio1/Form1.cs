@@ -25,7 +25,7 @@ namespace Ejercicio1
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show($"Hola, Windows Forms");
-            MessageBox.Show($"Soy {}");
+            MessageBox.Show($"Soy {nombre}{apellido}");
 
         }
 

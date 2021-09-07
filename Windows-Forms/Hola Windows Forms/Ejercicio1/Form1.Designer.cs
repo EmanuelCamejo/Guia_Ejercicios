@@ -111,6 +111,7 @@ namespace Ejercicio1
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "¡Hola, Windows Forms!";
             this.ResumeLayout(false);
             this.PerformLayout();
