@@ -1,15 +1,16 @@
 ﻿using System;
 
-namespace Biblioteca
+namespace Billete
 {
     public class Pesos
     {
         private double cantidad;
         private static double cotizRespectoDolar;
 
-        public static double GetCotizacion()
+        static  GetCotizacion(double cotizRespectoDolar)
         {
-            return this.cotizRespectoDolar;
+            this.cotizRespectoDolar = cotizRespectoDolar;
+            
         }
 
     }

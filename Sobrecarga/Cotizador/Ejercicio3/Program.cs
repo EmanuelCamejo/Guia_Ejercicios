@@ -1,5 +1,5 @@
 ﻿using System;
-using Biblioteca;
+using Billete;
 
 namespace Ejercicio3
 {

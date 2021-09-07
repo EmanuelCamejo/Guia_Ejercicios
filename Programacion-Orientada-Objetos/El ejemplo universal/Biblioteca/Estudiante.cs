@@ -12,7 +12,7 @@ namespace Biblioteca
         private int notaSegundoParcial;
         private static Random random;
 
-        #region Metodos
+        #region Constructores
         static Estudiante()
         {
             random = new Random();
@@ -24,6 +24,10 @@ namespace Biblioteca
             this.legajo = legajo;
             this.nombre = nombre;
         }
+
+        #endregion
+
+        #region Metodos
 
         public void SetNotaPrimerParcial(int notaPrimerParcial)
         {
