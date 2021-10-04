@@ -5,57 +5,59 @@ namespace Biblioteca
     public class Sumador
     {
         private int cantidadSumas;
-        private long num1, num2, resultado;
 
-        #region Contructores
+        #region Constructores
         public Sumador(int cantidadSumas)
         {
             this.cantidadSumas = cantidadSumas;
         }
-
-        public Sumador() : this(0)
+        public Sumador(): this(0)
         {
-
+            
         }
-
         #endregion
 
-        #region  Metodo
+        #region Metodos
         public long Sumar(long a, long b)
         {
-            this.cantidadSumas++;
-            return a + b;
+            this.cantidadSumas += 1;
+            return a+b;
         }
+
         public string Sumar(string a, string b)
         {
-            this.cantidadSumas++;
-            return a + b;
+            this.cantidadSumas += 1;
+            string res = a + b;
+            return res;
         }
-
         #endregion
 
-        #region Operadores de Conversión
-
-        public static explicit operator int(Sumador s1)
+        #region Sobrecarga de operadores
+        public static explicit operator int(Sumador s)
         {
-            return s1.cantidadSumas;
+            return s.cantidadSumas;
         }
-        #endregion
-
-        #region Sobrecarga de Operadores
         public static long operator +(Sumador s1, Sumador s2)
         {
             return s1.cantidadSumas + s2.cantidadSumas;
         }
-
         public static bool operator |(Sumador s1, Sumador s2)
         {
-            if (s1.cantidadSumas == s2.cantidadSumas)
+            bool flag;
+            if (s1.cantidadSumas==s2.cantidadSumas)
             {
-                return true;
+                flag = true;
             }
-            return false;
+            else
+            {
+                flag = false;
+            }
+            return flag;
         }
         #endregion
+
+
+
+
     }
 }

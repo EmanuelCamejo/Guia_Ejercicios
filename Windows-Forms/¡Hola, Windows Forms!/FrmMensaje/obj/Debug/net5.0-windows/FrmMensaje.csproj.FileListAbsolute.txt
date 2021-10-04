@@ -1,0 +1,6 @@
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Windows-Forms\¡Hola, Windows Forms!\FrmMensaje\obj\Debug\net5.0-windows\Vista.FrmMensaje.resources
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Windows-Forms\¡Hola, Windows Forms!\FrmMensaje\obj\Debug\net5.0-windows\FrmMensaje.csproj.GenerateResource.cache
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Windows-Forms\¡Hola, Windows Forms!\FrmMensaje\obj\Debug\net5.0-windows\FrmMensaje.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Windows-Forms\¡Hola, Windows Forms!\FrmMensaje\obj\Debug\net5.0-windows\FrmMensaje.AssemblyInfoInputs.cache
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Windows-Forms\¡Hola, Windows Forms!\FrmMensaje\obj\Debug\net5.0-windows\FrmMensaje.AssemblyInfo.cs
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Windows-Forms\¡Hola, Windows Forms!\FrmMensaje\obj\Debug\net5.0-windows\FrmMensaje.csproj.CoreCompileInputs.cache

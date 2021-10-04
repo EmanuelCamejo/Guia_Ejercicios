@@ -24,7 +24,7 @@ namespace Biblioteca
             return cantidad;
         }
 
-        
+
 
         public string Mostrar()
         {
@@ -42,11 +42,8 @@ namespace Biblioteca
         }
 
         public void Retirar(double num)
-        {
-            if (num > 0)
-            {
+        {           
                 this.cantidad -= num;
-            }
         }
 
         #endregion

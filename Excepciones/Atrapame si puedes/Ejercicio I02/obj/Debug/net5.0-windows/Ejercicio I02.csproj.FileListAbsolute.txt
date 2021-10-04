@@ -1,0 +1,7 @@
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Excepciones\Atrapame si puedes\Ejercicio I02\obj\Debug\net5.0-windows\Ejercicio I02.csproj.AssemblyReference.cache
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Excepciones\Atrapame si puedes\Ejercicio I02\obj\Debug\net5.0-windows\Ejercicio_I02.Form1.resources
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Excepciones\Atrapame si puedes\Ejercicio I02\obj\Debug\net5.0-windows\Ejercicio I02.csproj.GenerateResource.cache
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Excepciones\Atrapame si puedes\Ejercicio I02\obj\Debug\net5.0-windows\Ejercicio I02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Excepciones\Atrapame si puedes\Ejercicio I02\obj\Debug\net5.0-windows\Ejercicio I02.AssemblyInfoInputs.cache
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Excepciones\Atrapame si puedes\Ejercicio I02\obj\Debug\net5.0-windows\Ejercicio I02.AssemblyInfo.cs
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Excepciones\Atrapame si puedes\Ejercicio I02\obj\Debug\net5.0-windows\Ejercicio I02.csproj.CoreCompileInputs.cache

@@ -19,6 +19,8 @@ namespace Ejercicio1
             Console.WriteLine(c1.Mostrar());
             c1.Retirar(50);
             Console.WriteLine(c1.Mostrar());
+            c1.Retirar(10000);
+            Console.WriteLine(c1.Mostrar());
 
         }
     }

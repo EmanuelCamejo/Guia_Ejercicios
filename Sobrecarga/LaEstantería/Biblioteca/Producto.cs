@@ -22,15 +22,16 @@ namespace Biblioteca
         }
 
         
-        public static explicit operator string (Producto p)
+        public static explicit operator string (Producto p1)
         {
             return p1.codigoDeBarra;
         }
 
-        public static bool operator ==(Producto p1,Producto p2)
+        public static bool operator ==(Producto p1, Producto p2)
         {
-            return p1.marca==p2.marca && p1.codigoDeBarra==p2.codigoDeBarra;
+            return p1.marca == p2.marca && p1.codigoDeBarra == p2.codigoDeBarra;
         }
+
         public static bool operator !=(Producto p1, Producto p2)
         {
             return !(p1 == p2);
@@ -40,6 +41,7 @@ namespace Biblioteca
         {
             return p1.marca == marca;
         }
+        
         public static bool operator !=(Producto p1, string marca)
         {
             return !(p1 == marca);

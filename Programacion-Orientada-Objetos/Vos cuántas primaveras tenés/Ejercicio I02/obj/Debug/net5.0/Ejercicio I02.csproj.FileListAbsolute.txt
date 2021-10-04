@@ -1,0 +1,19 @@
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Programacion-Orientada-Objetos\Vos cuántas primaveras tenés\Ejercicio I02\bin\Debug\net5.0\Ejercicio I02.exe
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Programacion-Orientada-Objetos\Vos cuántas primaveras tenés\Ejercicio I02\bin\Debug\net5.0\Ejercicio I02.deps.json
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Programacion-Orientada-Objetos\Vos cuántas primaveras tenés\Ejercicio I02\bin\Debug\net5.0\Ejercicio I02.runtimeconfig.json
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Programacion-Orientada-Objetos\Vos cuántas primaveras tenés\Ejercicio I02\bin\Debug\net5.0\Ejercicio I02.runtimeconfig.dev.json
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Programacion-Orientada-Objetos\Vos cuántas primaveras tenés\Ejercicio I02\bin\Debug\net5.0\Ejercicio I02.dll
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Programacion-Orientada-Objetos\Vos cuántas primaveras tenés\Ejercicio I02\bin\Debug\net5.0\ref\Ejercicio I02.dll
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Programacion-Orientada-Objetos\Vos cuántas primaveras tenés\Ejercicio I02\bin\Debug\net5.0\Ejercicio I02.pdb
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Programacion-Orientada-Objetos\Vos cuántas primaveras tenés\Ejercicio I02\obj\Debug\net5.0\Ejercicio I02.csproj.AssemblyReference.cache
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Programacion-Orientada-Objetos\Vos cuántas primaveras tenés\Ejercicio I02\obj\Debug\net5.0\Ejercicio I02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Programacion-Orientada-Objetos\Vos cuántas primaveras tenés\Ejercicio I02\obj\Debug\net5.0\Ejercicio I02.AssemblyInfoInputs.cache
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Programacion-Orientada-Objetos\Vos cuántas primaveras tenés\Ejercicio I02\obj\Debug\net5.0\Ejercicio I02.AssemblyInfo.cs
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Programacion-Orientada-Objetos\Vos cuántas primaveras tenés\Ejercicio I02\obj\Debug\net5.0\Ejercicio I02.csproj.CoreCompileInputs.cache
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Programacion-Orientada-Objetos\Vos cuántas primaveras tenés\Ejercicio I02\obj\Debug\net5.0\Ejercicio I02.dll
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Programacion-Orientada-Objetos\Vos cuántas primaveras tenés\Ejercicio I02\obj\Debug\net5.0\ref\Ejercicio I02.dll
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Programacion-Orientada-Objetos\Vos cuántas primaveras tenés\Ejercicio I02\obj\Debug\net5.0\Ejercicio I02.pdb
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Programacion-Orientada-Objetos\Vos cuántas primaveras tenés\Ejercicio I02\obj\Debug\net5.0\Ejercicio I02.genruntimeconfig.cache
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Programacion-Orientada-Objetos\Vos cuántas primaveras tenés\Ejercicio I02\bin\Debug\net5.0\Biblioteca.dll
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Programacion-Orientada-Objetos\Vos cuántas primaveras tenés\Ejercicio I02\bin\Debug\net5.0\Biblioteca.pdb
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Programacion-Orientada-Objetos\Vos cuántas primaveras tenés\Ejercicio I02\obj\Debug\net5.0\Ejercicio I02.csproj.CopyComplete
