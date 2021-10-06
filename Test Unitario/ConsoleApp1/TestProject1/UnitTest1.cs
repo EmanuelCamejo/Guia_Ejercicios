@@ -50,5 +50,20 @@ namespace TestProject1
             Assert.AreEqual(exp, actual);
 
         }
+
+        [TestMethod]
+        public void Fizz_CuandoNoEsDivisiblePor3y5_DeberiaRetornarNoFizzBuzz()
+        {
+            //Arrange
+            int numero = 2;
+            string exp = "NoFizzBuzz";
+
+            //act
+            string actual = numero.FizzBuzz();
+
+            //Assert
+            Assert.AreEqual(exp, actual);
+
+        }
     }
 }
