@@ -1,0 +1,52 @@
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\bin\Debug\net5.0-windows\Ejercicio I01.exe
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\bin\Debug\net5.0-windows\Ejercicio I01.deps.json
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\bin\Debug\net5.0-windows\Ejercicio I01.runtimeconfig.json
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\bin\Debug\net5.0-windows\Ejercicio I01.runtimeconfig.dev.json
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\bin\Debug\net5.0-windows\Ejercicio I01.dll
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\bin\Debug\net5.0-windows\ref\Ejercicio I01.dll
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\bin\Debug\net5.0-windows\Ejercicio I01.pdb
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\obj\Debug\net5.0-windows\Ejercicio I01.csproj.AssemblyReference.cache
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\obj\Debug\net5.0-windows\Ejercicio_I01.Properties.Resources.resources
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\obj\Debug\net5.0-windows\Ejercicio I01.csproj.GenerateResource.cache
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\obj\Debug\net5.0-windows\Ejercicio I01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\obj\Debug\net5.0-windows\Ejercicio I01.AssemblyInfoInputs.cache
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\obj\Debug\net5.0-windows\Ejercicio I01.AssemblyInfo.cs
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\obj\Debug\net5.0-windows\Ejercicio I01.csproj.CoreCompileInputs.cache
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\obj\Debug\net5.0-windows\Ejercicio I01.dll
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\obj\Debug\net5.0-windows\ref\Ejercicio I01.dll
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\obj\Debug\net5.0-windows\Ejercicio I01.pdb
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\obj\Debug\net5.0-windows\Ejercicio I01.genruntimeconfig.cache
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\bin\Debug\net5.0-windows\Vista.deps.json
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\bin\Debug\net5.0-windows\Vista.runtimeconfig.json
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\bin\Debug\net5.0-windows\Vista.runtimeconfig.dev.json
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\bin\Debug\net5.0-windows\Vista.exe
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\bin\Debug\net5.0-windows\Vista.dll
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\bin\Debug\net5.0-windows\Vista.pdb
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\obj\Debug\net5.0-windows\Ejercicio I01.csproj.CopyComplete
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\obj\Debug\net5.0-windows\Ejercicio_I01.frmVista.resources
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\5 Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\bin\Debug\net5.0-windows\Vista.deps.json
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\5 Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\bin\Debug\net5.0-windows\Vista.runtimeconfig.json
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\5 Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\bin\Debug\net5.0-windows\Vista.runtimeconfig.dev.json
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\5 Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\bin\Debug\net5.0-windows\Vista.exe
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\5 Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\bin\Debug\net5.0-windows\Ejercicio I01.exe
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\5 Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\bin\Debug\net5.0-windows\Ejercicio I01.deps.json
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\5 Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\bin\Debug\net5.0-windows\Ejercicio I01.runtimeconfig.json
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\5 Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\bin\Debug\net5.0-windows\Ejercicio I01.runtimeconfig.dev.json
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\5 Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\bin\Debug\net5.0-windows\Ejercicio I01.dll
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\5 Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\bin\Debug\net5.0-windows\ref\Ejercicio I01.dll
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\5 Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\bin\Debug\net5.0-windows\Ejercicio I01.pdb
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\5 Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\bin\Debug\net5.0-windows\Vista.dll
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\5 Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\bin\Debug\net5.0-windows\Vista.pdb
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\5 Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\obj\Debug\net5.0-windows\Ejercicio I01.csproj.AssemblyReference.cache
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\5 Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\obj\Debug\net5.0-windows\Ejercicio_I01.frmVista.resources
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\5 Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\obj\Debug\net5.0-windows\Ejercicio_I01.Properties.Resources.resources
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\5 Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\obj\Debug\net5.0-windows\Ejercicio I01.csproj.GenerateResource.cache
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\5 Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\obj\Debug\net5.0-windows\Ejercicio I01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\5 Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\obj\Debug\net5.0-windows\Ejercicio I01.AssemblyInfoInputs.cache
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\5 Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\obj\Debug\net5.0-windows\Ejercicio I01.AssemblyInfo.cs
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\5 Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\obj\Debug\net5.0-windows\Ejercicio I01.csproj.CoreCompileInputs.cache
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\5 Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\obj\Debug\net5.0-windows\Ejercicio I01.csproj.CopyComplete
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\5 Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\obj\Debug\net5.0-windows\Ejercicio I01.dll
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\5 Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\obj\Debug\net5.0-windows\ref\Ejercicio I01.dll
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\5 Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\obj\Debug\net5.0-windows\Ejercicio I01.pdb
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\5 Windows-Forms\¡Hola, Windows Forms!\Ejercicio I01\obj\Debug\net5.0-windows\Ejercicio I01.genruntimeconfig.cache
