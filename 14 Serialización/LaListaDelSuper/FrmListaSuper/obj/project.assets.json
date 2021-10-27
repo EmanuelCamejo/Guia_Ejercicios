@@ -1,11 +1,33 @@
 {
   "version": 3,
   "targets": {
-    "net5.0-windows7.0": {}
+    "net5.0-windows7.0": {
+      "FrmAltaModificacion/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/FrmAltaModificacion.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FrmAltaModificacion.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "FrmAltaModificacion/1.0.0": {
+      "type": "project",
+      "path": "../FrmAltaModificacion/FrmAltaModificacion.csproj",
+      "msbuildProject": "../FrmAltaModificacion/FrmAltaModificacion.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0-windows7.0": []
+    "net5.0-windows7.0": [
+      "FrmAltaModificacion >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\ecamejo\\.nuget\\packages\\": {}
@@ -33,7 +55,11 @@
       "frameworks": {
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Facultad\\2do cuatrimestre 2021\\Program II - Lab II\\Guia_Ejercicios\\14 Serialización\\LaListaDelSuper\\FrmAltaModificacion\\FrmAltaModificacion.csproj": {
+              "projectPath": "D:\\Facultad\\2do cuatrimestre 2021\\Program II - Lab II\\Guia_Ejercicios\\14 Serialización\\LaListaDelSuper\\FrmAltaModificacion\\FrmAltaModificacion.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

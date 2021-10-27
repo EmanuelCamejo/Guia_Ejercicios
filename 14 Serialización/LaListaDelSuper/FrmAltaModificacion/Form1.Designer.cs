@@ -1,7 +1,7 @@
 ﻿
-namespace FrmAltaModificacion
+namespace Formulario
 {
-    partial class Form1
+    partial class FrmAltaModificacion
     {
         /// <summary>
         ///  Required designer variable.

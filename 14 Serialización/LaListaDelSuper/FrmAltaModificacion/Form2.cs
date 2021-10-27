@@ -13,6 +13,7 @@ namespace Formulario
 {
     public partial class FrmListaSuper : Form
     {
+       
         private static string rutaArchivo;
         private List<string> listaSupermercado;
 
@@ -29,10 +30,9 @@ namespace Formulario
             listaSupermercado = new List<string>();
         }
 
-
         private void AgregarElemento()
         {
-            FrmAltaModificacion frmAltaModificacion = new FrmAltaModificacion("Agregar Elemento", string.Empty, "Agregar");
+            FrmAltaModificacion frmAltaModificacion = new FrmAltaModificacion("Agregar Elemento", " ", "Agregar");
             frmAltaModificacion.ShowDialog();
             if (frmAltaModificacion.DialogResult == DialogResult.OK)
             {
@@ -40,7 +40,7 @@ namespace Formulario
                 //AlmacenarCambios();
                 //RefrescarLista();
             }
-            else 
+            else
             {
                 MessageBox.Show("Debe seleccionar un elemento de la lista.", "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
@@ -48,7 +48,7 @@ namespace Formulario
 
         private void EliminarElemento()
         {
-            string objetoSeleccionado = lstObjetos.SelectedItem as string;
+            string objetoSeleccionado = lstObjeto.SelectedItem as string;
 
             if (objetoSeleccionado is not null)
             {
@@ -56,18 +56,19 @@ namespace Formulario
                 //AlmacenarCambios();
                 //RefrescarLista();
             }
-            else {
+            else
+            {
                 MessageBox.Show("Debe seleccionar un elemento de la lista.", "Informacion", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
 
         private void ModificarElemento()
         {
-            string objetoSeleccionado = lstObjetos.SelectedItem as string;
+            string objetoSeleccionado = lstObjeto.SelectedItem as string;
             FrmAltaModificacion frmAltaModificacion = new FrmAltaModificacion("Modificar objeto", objetoSeleccionado, "Agregar");
             frmAltaModificacion.ShowDialog();
 
-            if (frmAltaModificacion.DialogResult==DialogResult.OK)
+            if (frmAltaModificacion.DialogResult == DialogResult.OK)
             {
                 int indice = listaSupermercado.IndexOf(objetoSeleccionado);
                 listaSupermercado[indice] = frmAltaModificacion.Objeto;
@@ -80,28 +81,24 @@ namespace Formulario
             }
         }
 
+        private void FrmListaSuper_Load(object sender, EventArgs e)
+        {
 
+        }
 
         private void btnAgregar_Click(object sender, EventArgs e)
         {
             AgregarElemento();
-
         }
 
         private void btnEliminar_Click(object sender, EventArgs e)
         {
             EliminarElemento();
-            
         }
 
         private void btnModificar_Click(object sender, EventArgs e)
         {
             ModificarElemento();
-        }
-
-        private void FrmListaSuper_Load(object sender, EventArgs e)
-        {
-           
         }
     }
 }

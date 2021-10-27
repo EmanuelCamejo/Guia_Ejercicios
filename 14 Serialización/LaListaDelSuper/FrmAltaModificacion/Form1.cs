@@ -8,13 +8,45 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace FrmAltaModificacion
+namespace Formulario
 {
-    public partial class Form1 : Form
+    public partial class FrmAltaModificacion : Form
     {
-        public Form1()
+        //public FrmAltaModificacion()
+        //{
+        //    InitializeComponent();
+        //}
+        public FrmAltaModificacion() { }
+        public FrmAltaModificacion(string titulo, string contenidoTextBox, string textBotonConfirmar)
         {
-            InitializeComponent();
+            Text = titulo;
+            txtObjeto.Text = contenidoTextBox;
+            btnConfirmar.Text = textBotonConfirmar;
+           
+        }
+
+        public string Objeto
+        {
+            get { return txtObjeto.Text; }
+         }
+
+        private void Confirmar()
+        {
+            if (string.IsNullOrWhiteSpace(txtObjeto.Text))
+            {
+                MessageBox.Show("El texto no puede estar vacio", "Validacion", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+            else
+            {
+                DialogResult = DialogResult.OK;
+                Close();
+            }
+        }
+
+        private void Cancelar()
+        {
+            DialogResult = DialogResult.Cancel;
+            Close();
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -22,52 +54,28 @@ namespace FrmAltaModificacion
 
         }
 
-        public Form1(string titulo, string botonConfirmar, string botonCancelar)
-        {
-            Text = titulo;
-            btnConfirmar.Text = botonConfirmar;
-            btnCancelar.Text = botonCancelar;
-        }
+       
 
         private void btnConfirmar_Click(object sender, EventArgs e)
         {
-            //try
-            //{
-                if (txtObjeto.Text == "")
-                {
-                //throw e;
-                ////break;
-                MessageBox.Show("No ingresaste nada");
-                }
-                else
-                {
-                    DialogResult dialogResult = DialogResult.OK;
-                    MessageBox.Show(dialogResult.ToString());
-                }
-
-
-
-            //}
-            //catch (Exception e)
-            //{
-
-            //    throw;
-            //}
-            
-
+            Confirmar();
         }
 
         private void Form1_KeyPress(object sender, KeyPressEventArgs e)
         {
-            //if (e.KeyChar == (char)13) 
-            //{
-            //    btnConfirmar_Click(sender,e);
-            //}
+            if (e.KeyChar == (char)13)
+            {
+                Confirmar();
+            }
+            else if (e.KeyChar == (char)27)
+            {
+                Cancelar();
+            }
         }
 
         private void btnCancelar_Click(object sender, EventArgs e)
         {
-            DialogResult dialogResult = DialogResult.Cancel;            
+            Cancelar();         
         }
 
     }

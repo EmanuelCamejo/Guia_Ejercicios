@@ -6,7 +6,6 @@ D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\14 Seriali
 D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\14 Serialización\LaListaDelSuper\FrmListaSuper\bin\Debug\net5.0-windows\ref\FrmListaSuper.dll
 D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\14 Serialización\LaListaDelSuper\FrmListaSuper\bin\Debug\net5.0-windows\FrmListaSuper.pdb
 D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\14 Serialización\LaListaDelSuper\FrmListaSuper\obj\Debug\net5.0-windows\FrmListaSuper.csproj.AssemblyReference.cache
-D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\14 Serialización\LaListaDelSuper\FrmListaSuper\obj\Debug\net5.0-windows\FrmListaSuper.Form1.resources
 D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\14 Serialización\LaListaDelSuper\FrmListaSuper\obj\Debug\net5.0-windows\FrmListaSuper.csproj.GenerateResource.cache
 D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\14 Serialización\LaListaDelSuper\FrmListaSuper\obj\Debug\net5.0-windows\FrmListaSuper.GeneratedMSBuildEditorConfig.editorconfig
 D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\14 Serialización\LaListaDelSuper\FrmListaSuper\obj\Debug\net5.0-windows\FrmListaSuper.AssemblyInfoInputs.cache
@@ -16,3 +15,10 @@ D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\14 Seriali
 D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\14 Serialización\LaListaDelSuper\FrmListaSuper\obj\Debug\net5.0-windows\ref\FrmListaSuper.dll
 D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\14 Serialización\LaListaDelSuper\FrmListaSuper\obj\Debug\net5.0-windows\FrmListaSuper.pdb
 D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\14 Serialización\LaListaDelSuper\FrmListaSuper\obj\Debug\net5.0-windows\FrmListaSuper.genruntimeconfig.cache
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\14 Serialización\LaListaDelSuper\FrmListaSuper\obj\Debug\net5.0-windows\Formulario.FrmListaSuper.resources
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\14 Serialización\LaListaDelSuper\FrmListaSuper\bin\Debug\net5.0-windows\FrmAltaModificacion.deps.json
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\14 Serialización\LaListaDelSuper\FrmListaSuper\bin\Debug\net5.0-windows\FrmAltaModificacion.runtimeconfig.json
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\14 Serialización\LaListaDelSuper\FrmListaSuper\bin\Debug\net5.0-windows\FrmAltaModificacion.runtimeconfig.dev.json
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\14 Serialización\LaListaDelSuper\FrmListaSuper\bin\Debug\net5.0-windows\FrmAltaModificacion.exe
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\14 Serialización\LaListaDelSuper\FrmListaSuper\bin\Debug\net5.0-windows\FrmAltaModificacion.dll
+D:\Facultad\2do cuatrimestre 2021\Program II - Lab II\Guia_Ejercicios\14 Serialización\LaListaDelSuper\FrmListaSuper\bin\Debug\net5.0-windows\FrmAltaModificacion.pdb
