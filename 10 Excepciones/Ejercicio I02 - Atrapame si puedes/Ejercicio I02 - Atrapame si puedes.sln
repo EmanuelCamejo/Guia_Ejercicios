@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtrapameSiPuedes", "AtrapameSiPuedes\AtrapameSiPuedes.csproj", "{F6F094DF-7DE7-474C-B70D-89ABFE03A926}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{5F6B10DC-5C49-41B0-B190-E69694EE8C58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6F094DF-7DE7-474C-B70D-89ABFE03A926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6F094DF-7DE7-474C-B70D-89ABFE03A926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6F094DF-7DE7-474C-B70D-89ABFE03A926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6F094DF-7DE7-474C-B70D-89ABFE03A926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F6B10DC-5C49-41B0-B190-E69694EE8C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F6B10DC-5C49-41B0-B190-E69694EE8C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F6B10DC-5C49-41B0-B190-E69694EE8C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F6B10DC-5C49-41B0-B190-E69694EE8C58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BE0BB1B-3AA7-4C4A-B06C-5875FF6D627D}
+	EndGlobalSection
+EndGlobal
